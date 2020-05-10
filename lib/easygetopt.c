@@ -20,8 +20,6 @@
  *
  ***************************************************************************/
 
-#include <curl/options.h>
-
 #include "curl_setup.h"
 #include "strcase.h"
 #include "easyoptions.h"
